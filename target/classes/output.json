@@ -1,0 +1,64 @@
+{
+  "type": "stat",
+  "totalDays": 5,
+  "customers": [
+    {
+      "name": "Петр Петров",
+      "purchases": [
+        {
+          "name": "Молоко",
+          "expenses": 160
+        },
+        {
+          "name": "Сыр",
+          "expenses": 600
+        },
+        {
+          "name": "Хлеб",
+          "expenses": 120
+        }
+      ],
+      "totalExpenses": 880
+    },
+    {
+      "name": "Иван Иванов",
+      "purchases": [
+        {
+          "name": "Молоко",
+          "expenses": 160
+        },
+        {
+          "name": "Сыр",
+          "expenses": 450
+        },
+        {
+          "name": "Хлеб",
+          "expenses": 60
+        }
+      ],
+      "totalExpenses": 670
+    },
+    {
+      "name": "Николай Сидоров",
+      "purchases": [
+        {
+          "name": "Молоко",
+          "expenses": 240
+        }
+      ],
+      "totalExpenses": 240
+    },
+    {
+      "name": "Владимир Сидоров",
+      "purchases": [
+        {
+          "name": "Молоко",
+          "expenses": 320
+        }
+      ],
+      "totalExpenses": 320
+    }
+  ],
+  "totalExpenses": 2110,
+  "avgExpenses": 527.5
+}
