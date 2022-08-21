@@ -12,12 +12,6 @@ import java.util.Map;
 import static enums.EnumForSearch.*;
 
 public class SetterForSearch {
-//    private final String LAST_NAME = "lastName";
-//    private final String PRODUCT_NAME = "productName";
-//    private final String MIN_TIMES = "minTimes";
-//    private final String MIN_EXPENSES = "minExpenses";
-//    private final String MAX_EXPENSES = "maxExpenses";
-//    private final String BAD_CUSTOMERS = "badCustomers";
     private ArrayList<HashMap<String, Object>> arrCustomersLastName = new ArrayList<>();
     private ArrayList<HashMap<String, Object>> arrProductsAndTimes = new ArrayList<>();
     private ArrayList<HashMap<String, Object>> arrExpenses = new ArrayList<>();
